@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test page protection"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.349">
+  <properties />
+  
+  
+            <testcase name="WholePage_Protection" time="4.068" classname="Tests.TestProtect" />
+                <testcase name="Content_Protection" time="4.281" classname="Tests.TestProtect" />
+      
+</testsuite>
